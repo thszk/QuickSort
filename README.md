@@ -1,2 +1,2 @@
 # QuickSort
-Programa didático que implementa o algoritmo QuickSort de forma muito simples.
+Programa didático que implementa o algoritmo QuickSort de forma muito simples em Java.
